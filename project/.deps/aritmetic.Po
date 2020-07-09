@@ -1,0 +1,5 @@
+aritmetic.o: aritmetic.c /usr/include/stdc-predef.h aritmetic.h
+
+/usr/include/stdc-predef.h:
+
+aritmetic.h:

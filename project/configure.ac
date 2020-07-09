@@ -1,0 +1,7 @@
+AC_INIT([libaritmetic], [0.1])
+AM_INIT_AUTOMAKE
+AC_CONFIG_MACRO_DIRS([m4])
+AC_PROG_CC
+AC_PROG_LIBTOOL
+AC_OUTPUT([Makefile])
+
